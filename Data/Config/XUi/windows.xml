@@ -472,7 +472,7 @@
 			<!-- VALMOD remove if offline
 			<sprite depth="1" name="background" pos="0,0" color="[black]" type="sliced">
 				<texture depth="500" name="InventoryBackground" width="597" height="297" pos="3,-3" texture="@http://i.imgur.com/kpry8zm.png" material="Materials/Transparent Colored"/>
-			</sprite>
+			</sprite> -->
 			<!-- Valmod Remove if Offline-->
 		</panel>
 	</window>
